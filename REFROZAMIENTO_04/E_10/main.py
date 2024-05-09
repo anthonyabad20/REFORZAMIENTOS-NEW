@@ -1,0 +1,2 @@
+import operaciones
+operaciones.persona()
